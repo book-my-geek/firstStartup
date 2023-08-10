@@ -1,0 +1,50 @@
+[
+    {
+        "Avatar": "avatar1.jpg",
+        "Name": "Sachin Sharma",
+        "role": "Software Engineer",
+        "experience": 5,
+        "projects": 10,
+        "techStack": ["JavaScript", "React", "Node.js", "MongoDB"]
+    },
+    {
+        "Avatar": "avatar2.jpg",
+        "Name": "Ashish Kumar",
+        "role": "UI/UX Designer",
+        "experience": 3,
+        "projects": 5,
+        "techStack": ["Adobe XD", "Figma", "Sketch", "InVision"]
+    },
+    {
+        "Avatar": "avatar3.jpg",
+        "Name": "Aman Akarshan",
+        "role": "Data Scientist",
+        "experience": 7,
+        "projects": 15,
+        "techStack": ["Python", "TensorFlow", "Pandas", "Scikit-Learn"]
+    },
+    {
+        "Avatar": "avatar1.jpg",
+        "Name": "Arpan Sachan",
+        "role": "Software Engineer",
+        "experience": 5,
+        "projects": 8,
+        "techStack": ["JavaScript", "React", "Node.js", "MongoDB"]
+    },
+    {
+        "Avatar": "avatar2.jpg",
+        "Name": "Rashindra Yadav",
+        "role": "UI/UX Designer",
+        "experience": 3,
+        "projects": 5,
+        "techStack": ["Adobe XD", "Figma", "Sketch", "InVision"]
+    },
+    {
+        "Avatar": "avatar3.jpg",
+        "Name": "Dhananjay Kumar Jha",
+        "role": "Data Scientist",
+        "experience": 7,
+        "projects": 12,
+        "techStack": ["Python", "TensorFlow", "Pandas", "Scikit-Learn"]
+    }
+]
